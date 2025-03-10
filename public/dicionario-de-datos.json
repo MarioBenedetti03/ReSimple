@@ -1,0 +1,114 @@
+{
+    "EMPRESAS": [
+        {
+            "ID_EMPRESA": 1,
+            "NOMBRE_EMPRESA": "Grupo Dinámico Alfa",
+            "AREAS": [
+                {
+                    "ID_AREA": "A1",
+                    "NOMBRE_AREA": "Finanzas",
+                    "SUELDO": 1300000
+                },
+                {
+                    "ID_AREA": "A2",
+                    "NOMBRE_AREA": "Marketing",
+                    "SUELDO": 1300000
+                },
+                {
+                    "ID_AREA": "A3",
+                    "NOMBRE_AREA": "Operaciones",
+                    "SUELDO": 2400000
+                },
+                {
+                    "ID_AREA": "A4",
+                    "NOMBRE_AREA": "RRHH",
+                    "SUELDO": 1900000
+                }
+            ]
+        },
+        {
+            "ID_EMPRESA": 2,
+            "NOMBRE_EMPRESA": "Soluciones Innovadoras Gamma",
+            "AREAS": [
+                {
+                    "ID_AREA": "A1",
+                    "NOMBRE_AREA": "Recursos Humanos",
+                    "SUELDO": 1900000
+                },
+                {
+                    "ID_AREA": "A2",
+                    "NOMBRE_AREA": "IT",
+                    "SUELDO": 3000000
+                },
+                {
+                    "ID_AREA": "A3",
+                    "NOMBRE_AREA": "Legal",
+                    "SUELDO": 2100000
+                },
+                {
+                    "ID_AREA": "A4",
+                    "NOMBRE_AREA": "Comunicaciones",
+                    "SUELDO": 2300000
+                }
+            ]
+        },
+        {
+            "ID_EMPRESA": 3,
+            "NOMBRE_EMPRESA": "Tecnologías Avanzadas Omega",
+            "AREAS": [
+                {
+                    "ID_AREA": "A1",
+                    "NOMBRE_AREA": "Investigación y Desarrollo",
+                    "SUELDO": 1200000
+                },
+                {
+                    "ID_AREA": "A2",
+                    "NOMBRE_AREA": "Ventas",
+                    "SUELDO": 2300000
+                },
+                {
+                    "ID_AREA": "A3",
+                    "NOMBRE_AREA": "Atención al Cliente",
+                    "SUELDO": 2200000
+                },
+                {
+                    "ID_AREA": "A4",
+                    "NOMBRE_AREA": "Logística",
+                    "SUELDO": 2200000
+                }
+            ]
+        },
+        {
+            "ID_EMPRESA": 4,
+            "NOMBRE_EMPRESA": "Conexiones Estratégicas Beta",
+            "AREAS": [
+                {
+                    "ID_AREA": "A1",
+                    "NOMBRE_AREA": "Desarrollo de Producto",
+                    "SUELDO": 3000000
+                },
+                {
+                    "ID_AREA": "A2",
+                    "NOMBRE_AREA": "Servicio al Cliente",
+                    "SUELDO": 3000000
+                }
+            ]
+        },
+        {
+            "ID_EMPRESA": 5,
+            "NOMBRE_EMPRESA": "Visión Global Zeta",
+            "AREAS": [
+                {
+                    "ID_AREA": "A1",
+                    "NOMBRE_AREA": "Investigación de Mercado",
+                    "SUELDO": 1600000
+                },
+                {
+                    "ID_AREA": "A2",
+                    "NOMBRE_AREA": "Publicidad",
+                    "SUELDO": 1700000
+                }
+            ]
+        }
+    ]
+}
