@@ -1,0 +1,4 @@
+dependencias necesarias:
+
+npm install xlsx
+npm install react-data-table-component

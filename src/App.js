@@ -111,13 +111,13 @@ function App() {
     XLSX.utils.book_append_sheet(wb, ws, "Datos Filtrados");
     XLSX.writeFile(wb, "Data_ReSimple.xlsx");
   };
-
+  //Diseño DataTable
   const customStyles = {
     headCells: {
       style: {
-        fontWeight: "bold", // Hace el texto en la cabecera en negrita
-        backgroundColor: "#61CE70", // Color de fondo opcional
-        fontSize: "16px", // Tamaño de fuente opcional
+        fontWeight: "bold",
+        backgroundColor: "#61CE70", 
+        fontSize: "16px", 
       },
     },
   };
