@@ -54,7 +54,7 @@ function App() {
           const sheetName = workbook.SheetNames[0]; // Seleccionar primera hoja de excel
           const excelData = XLSX.utils.sheet_to_json(workbook.Sheets[sheetName], { defval: "" });
 
-          // Unificar datos de Json y excel en base a la relacion de estos
+          // Unificar datos de JSON y excel en base a la relacion de estos
           const mergedData = excelData.map((trabajador) => {
             const empresa = jsonData.EMPRESAS.find((e) => e.ID_EMPRESA === trabajador.ID_EMPRESA);
             const area = empresa?.AREAS.find((a) => a.ID_AREA === trabajador.ID_AREA);
